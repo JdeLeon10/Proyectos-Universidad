@@ -1,0 +1,15 @@
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\bin\Debug\net8.0\EstructuraDeDatos.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\bin\Debug\net8.0\EstructuraDeDatos.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\bin\Debug\net8.0\EstructuraDeDatos.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\bin\Debug\net8.0\BibliotecaDeClases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\bin\Debug\net8.0\BibliotecaDeClases.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.csproj.CopyComplete
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\refint\EstructuraDeDatos.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\EstructuraDeDatos.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\EstructuraDeDatos\obj\Debug\net8.0\ref\EstructuraDeDatos.dll

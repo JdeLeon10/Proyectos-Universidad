@@ -1,0 +1,49 @@
+﻿@model WebInformacionDocenteJdL.Models.Contacto
+
+@{
+    ViewBag.Title = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    DateTime fecha = DateTime.Parse(Html.DisplayTextFor(m => m.lStrFechaNacimiento).ToString());
+    ViewBag.Fecha = fecha.ToString("yyyy-MM-dd");
+}
+
+<div class="row" style="margin-top:30px">
+    <div class="col-sm-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h4> Editar contacto </h4>
+            </div>
+            <div class="panel-body">
+                <form action="@Url.Action("Editar", "Contacto")" method="post">
+                    <input type="hidden" class="form-control" name="lIntIdContacto" value="@Html.DisplayTextFor(m => m.lIntIdContacto)" />
+                    <div class="form-group">
+                        <label> Nombres </label>
+                        <input type="text" class="form-control" name="lStrNombres" value="@Html.DisplayTextFor(m => m.lStrNombres)" />
+                    </div>
+                    <div class="form-group">
+                        <label> Apellidos </label>
+                        <input type="text" class="form-control" name="lStrApellidos" value="@Html.DisplayTextFor(m => m.lStrApellidos)" />
+                    </div>
+                    <div class="form-group">
+                        <label> Telefono </label>
+                        <input type="text" class="form-control" name="lStrTelefono" value="@Html.DisplayTextFor(m => m.lStrTelefono)" />
+                    </div>
+                    <div class="form-group">
+                        <label> Correos </label>
+                        <input type="text" class="form-control" name="lStrCorreo" value="@Html.DisplayTextFor(m => m.lStrCorreo)" />
+                    </div>
+                    <div class="form-group">
+                        <label for="txtSalario">Salario</label>
+                        <input type="number" step="any" class="form-control" name="Salario" value="@Html.DisplayTextFor(m => m.lDblSalario)" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="txtFechaNacimiento">Fecha de nacimiento</label>
+                        <input type="date" class="form-control" name="lStrFechaNacimiento" value="@ViewBag.Fecha" required />
+                    </div>
+                    <button type="submit" class="btn btn-primary"> Guardar </button>
+                    <a class="btn btn-warning" href="@Url.Action("Inicio","Contacto")"> Volver </a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

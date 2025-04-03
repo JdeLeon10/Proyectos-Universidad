@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}|clsLab\\clsLab.csproj|c:\\users\\jered\\downloads\\winlaboratoriorepasopoojeremy\\clslab\\clsjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}|clsLab\\clsLab.csproj|solutionrelative:clslab\\clsjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}|clsLab\\clsLab.csproj|c:\\users\\jered\\downloads\\winlaboratoriorepasopoojeremy\\clslab\\clsequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}|clsLab\\clsLab.csproj|solutionrelative:clslab\\clsequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|c:\\users\\jered\\downloads\\winlaboratoriorepasopoojeremy\\winlabtorneo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|solutionrelative:winlabtorneo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|c:\\users\\jered\\downloads\\winlaboratoriorepasopoojeremy\\winlabtorneo\\winjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|solutionrelative:winlabtorneo\\winjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\winlabtorneo\\winjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|solutionrelative:winlabtorneo\\winjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\winlabtorneo\\wininformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|solutionrelative:winlabtorneo\\wininformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|c:\\users\\jered\\downloads\\winlaboratoriorepasopoojeremy\\winlabtorneo\\wininformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|solutionrelative:winlabtorneo\\wininformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\winlabtorneo\\wintorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}|WinLabTorneo\\WinLabTorneo.csproj|solutionrelative:winlabtorneo\\wintorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\Program.cs",
+              "RelativeDocumentMoniker": "WinLabTorneo\\Program.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\Program.cs",
+              "RelativeToolTip": "WinLabTorneo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:01:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\clsLab\\clsEquipo.cs",
+              "RelativeDocumentMoniker": "clsLab\\clsEquipo.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\clsLab\\clsEquipo.cs",
+              "RelativeToolTip": "clsLab\\clsEquipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:01:56.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\clsLab\\clsJugador.cs",
+              "RelativeDocumentMoniker": "clsLab\\clsJugador.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\clsLab\\clsJugador.cs",
+              "RelativeToolTip": "clsLab\\clsJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:01:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WinInformacion.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\WinInformacion.cs",
+              "RelativeDocumentMoniker": "WinLabTorneo\\WinInformacion.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\WinInformacion.cs",
+              "RelativeToolTip": "WinLabTorneo\\WinInformacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:01:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinInformacion.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\WinInformacion.cs",
+              "RelativeDocumentMoniker": "WinLabTorneo\\WinInformacion.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\WinInformacion.cs",
+              "RelativeToolTip": "WinLabTorneo\\WinInformacion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-03T23:01:57.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "winJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\winJugador.cs",
+              "RelativeDocumentMoniker": "WinLabTorneo\\winJugador.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\winJugador.cs",
+              "RelativeToolTip": "WinLabTorneo\\winJugador.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:01:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "winJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\winJugador.cs",
+              "RelativeDocumentMoniker": "WinLabTorneo\\winJugador.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\winJugador.cs",
+              "RelativeToolTip": "WinLabTorneo\\winJugador.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-03T23:01:57.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "winTorneo.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\winTorneo.cs",
+              "RelativeDocumentMoniker": "WinLabTorneo\\winTorneo.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\WinLaboratorioRepasoPOOJeremy\\WinLabTorneo\\winTorneo.cs",
+              "RelativeToolTip": "WinLabTorneo\\winTorneo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-03T23:01:57.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

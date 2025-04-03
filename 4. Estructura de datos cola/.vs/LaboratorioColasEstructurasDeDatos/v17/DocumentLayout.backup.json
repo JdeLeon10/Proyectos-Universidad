@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14169919-ACF0-441C-9614-61253C48EBB3}|LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos.csproj|C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\laboratoriocolasestructurasdedatos\\frmcolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14169919-ACF0-441C-9614-61253C48EBB3}|LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos.csproj|solutionrelative:laboratoriocolasestructurasdedatos\\frmcolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14169919-ACF0-441C-9614-61253C48EBB3}|LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos.csproj|c:\\users\\jered\\downloads\\laboratoriocolasestructurasdedatos\\laboratoriocolasestructurasdedatos\\frmcolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14169919-ACF0-441C-9614-61253C48EBB3}|LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos.csproj|solutionrelative:laboratoriocolasestructurasdedatos\\frmcolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFABBE5-F3ED-4FE6-987D-907D1099E2C5}|clsBibliotecaDeClases\\clsBibliotecaDeClases.csproj|c:\\users\\jered\\downloads\\laboratoriocolasestructurasdedatos\\clsbibliotecadeclases\\clsnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFABBE5-F3ED-4FE6-987D-907D1099E2C5}|clsBibliotecaDeClases\\clsBibliotecaDeClases.csproj|solutionrelative:clsbibliotecadeclases\\clsnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFABBE5-F3ED-4FE6-987D-907D1099E2C5}|clsBibliotecaDeClases\\clsBibliotecaDeClases.csproj|c:\\users\\jered\\downloads\\laboratoriocolasestructurasdedatos\\clsbibliotecadeclases\\clscola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFABBE5-F3ED-4FE6-987D-907D1099E2C5}|clsBibliotecaDeClases\\clsBibliotecaDeClases.csproj|solutionrelative:clsbibliotecadeclases\\clscola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsNodo.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\clsBibliotecaDeClases\\clsNodo.cs",
+              "RelativeDocumentMoniker": "clsBibliotecaDeClases\\clsNodo.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\clsBibliotecaDeClases\\clsNodo.cs",
+              "RelativeToolTip": "clsBibliotecaDeClases\\clsNodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:06:01.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmColas.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos\\frmColas.cs",
+              "RelativeDocumentMoniker": "LaboratorioColasEstructurasDeDatos\\frmColas.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos\\frmColas.cs",
+              "RelativeToolTip": "LaboratorioColasEstructurasDeDatos\\frmColas.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:06:01.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsCola.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\clsBibliotecaDeClases\\clsCola.cs",
+              "RelativeDocumentMoniker": "clsBibliotecaDeClases\\clsCola.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\clsBibliotecaDeClases\\clsCola.cs",
+              "RelativeToolTip": "clsBibliotecaDeClases\\clsCola.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:06:01.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmColas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos\\frmColas.cs",
+              "RelativeDocumentMoniker": "LaboratorioColasEstructurasDeDatos\\frmColas.cs",
+              "ToolTip": "C:\\Users\\Jered\\Downloads\\LaboratorioColasEstructurasDeDatos\\LaboratorioColasEstructurasDeDatos\\frmColas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LaboratorioColasEstructurasDeDatos\\frmColas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:06:02.049Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

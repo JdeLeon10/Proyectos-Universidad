@@ -1,0 +1,11 @@
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\bin\Debug\net8.0\Biblioteca de Clases.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\bin\Debug\net8.0\Biblioteca de Clases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\bin\Debug\net8.0\Biblioteca de Clases.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\Biblioteca de Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\Biblioteca de Clases.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\Biblioteca de Clases.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\Biblioteca de Clases.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\Biblioteca de Clases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\refint\Biblioteca de Clases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\Biblioteca de Clases.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinProyectoListasPilasColas-GuerraCartas\Biblioteca de Clases\obj\Debug\net8.0\ref\Biblioteca de Clases.dll

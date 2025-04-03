@@ -1,0 +1,11 @@
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\bin\Debug\net8.0\BibliotecaDeClases.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\bin\Debug\net8.0\BibliotecaDeClases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\bin\Debug\net8.0\BibliotecaDeClases.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\BibliotecaDeClases.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\BibliotecaDeClases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\refint\BibliotecaDeClases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\BibliotecaDeClases.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLabListasEnlazadas1\BibliotecaDeClases\obj\Debug\net8.0\ref\BibliotecaDeClases.dll

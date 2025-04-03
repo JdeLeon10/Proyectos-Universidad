@@ -1,0 +1,22 @@
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\bin\Debug\net8.0\clsBibliotecaDeClases.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\bin\Debug\net8.0\clsBibliotecaDeClases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\bin\Debug\net8.0\clsBibliotecaDeClases.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\refint\clsBibliotecaDeClases.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\ref\clsBibliotecaDeClases.dll
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\bin\Debug\net8.0\clsBibliotecaDeClases.deps.json
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\bin\Debug\net8.0\clsBibliotecaDeClases.dll
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\bin\Debug\net8.0\clsBibliotecaDeClases.pdb
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.AssemblyInfoInputs.cache
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.AssemblyInfo.cs
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.dll
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\refint\clsBibliotecaDeClases.dll
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\clsBibliotecaDeClases.pdb
+C:\Users\Jered\Downloads\LaboratorioColasEstructurasDeDatos\clsBibliotecaDeClases\obj\Debug\net8.0\ref\clsBibliotecaDeClases.dll

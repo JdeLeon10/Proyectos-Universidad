@@ -1,0 +1,72 @@
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.exe
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.runtimeconfig.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\bin\Debug\net8.0-windows\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\bin\Debug\net8.0-windows\clsLab.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.AssemblyReference.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.MenuPrincipal.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winEquipo.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.WinInformacion.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winJugador.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winTorneo.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.GenerateResource.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.CopyComplete
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\refint\WinLabTorneo.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.genruntimeconfig.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\WinLabTorneo\obj\Debug\net8.0-windows\ref\WinLabTorneo.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.exe
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.runtimeconfig.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\clsLab.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.AssemblyReference.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.MenuPrincipal.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winEquipo.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.WinInformacion.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winJugador.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winTorneo.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.GenerateResource.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.CopyComplete
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\refint\WinLabTorneo.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.genruntimeconfig.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\ref\WinLabTorneo.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.exe
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.deps.json
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.runtimeconfig.json
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\WinLabTorneo.pdb
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\clsLab.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\bin\Debug\net8.0-windows\clsLab.pdb
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.AssemblyReference.cache
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.MenuPrincipal.resources
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winEquipo.resources
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.WinInformacion.resources
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winJugador.resources
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.winTorneo.resources
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.GenerateResource.cache
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.AssemblyInfoInputs.cache
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.AssemblyInfo.cs
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTo.34A17C57.Up2Date
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\refint\WinLabTorneo.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.pdb
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\WinLabTorneo.genruntimeconfig.cache
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\WinLabTorneo\obj\Debug\net8.0-windows\ref\WinLabTorneo.dll

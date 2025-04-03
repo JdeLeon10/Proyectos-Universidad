@@ -1,0 +1,46 @@
+﻿@model WebInformacionDocenteJdL.Models.Contacto
+
+@{
+    ViewBag.Title = "Registrar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" style="margin-top:30px">
+    <div class="col-sm-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h4> Nuevo contacto </h4>
+            </div>
+            <div class="panel-body">
+                <form action="@Url.Action("Registrar", "Contacto")" method="post">
+                    <div class="form-group">
+                        <label> Nombres </label>
+                        <input type="text" class="form-control" name="lStrNombres" />
+                    </div>
+                    <div class="form-group">
+                        <label> Apellidos </label>
+                        <input type="text" class="form-control" name="lStrApellidos" />
+                    </div>
+                    <div class="form-group">
+                        <label> Telefono </label>
+                        <input type="text" class="form-control" name="lStrTelefono" />
+                    </div>
+                    <div class="form-group">
+                        <label> Correos </label>
+                        <input type="text" class="form-control" name="lStrCorreo" />
+                    </div>
+                    <div class="form-group">
+                        <label for="txtSalario">Salario</label>
+                        <input type="number" step="any" class="form-control" name="lDblSalario" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="txtFechaNacimiento">Fecha de nacimiento</label>
+                        <input type="date" class="form-control" name="lStrFechaNacimiento" required />
+                    </div>
+                    <button type="submit" class="btn btn-primary"> Registrar </button>
+                    <a class="btn btn-warning" href="@Url.Action("Inicio","Contacto")"> Volver </a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

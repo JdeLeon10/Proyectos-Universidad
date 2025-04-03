@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinLabTorneo", "WinLabTorneo\WinLabTorneo.csproj", "{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsLab", "clsLab\clsLab.csproj", "{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC409F68-C2BD-43AA-992D-CD9346FC4BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE9FD8E-6D79-4780-9D6B-BBCB54C6487E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF87165-4599-43EE-A201-ACFFD1D3A10F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jered\\Desktop\\Proyectos Universidad\\Generador tabla de transiciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{746680E9-5EAB-4AD6-B339-11672531DE97}|ProyectoFinalAutomatas\\ProyectoFinalAutomatas.csproj|c:\\users\\jered\\desktop\\proyectos universidad\\generador tabla de transiciones\\proyectofinalautomatas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746680E9-5EAB-4AD6-B339-11672531DE97}|ProyectoFinalAutomatas\\ProyectoFinalAutomatas.csproj|solutionrelative:proyectofinalautomatas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746680E9-5EAB-4AD6-B339-11672531DE97}|ProyectoFinalAutomatas\\ProyectoFinalAutomatas.csproj|C:\\Users\\Jered\\Desktop\\Proyectos Universidad\\Generador tabla de transiciones\\proyectofinalautomatas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{746680E9-5EAB-4AD6-B339-11672531DE97}|ProyectoFinalAutomatas\\ProyectoFinalAutomatas.csproj|solutionrelative:proyectofinalautomatas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jered\\Desktop\\Proyectos Universidad\\Generador tabla de transiciones\\ProyectoFinalAutomatas\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalAutomatas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jered\\Desktop\\Proyectos Universidad\\Generador tabla de transiciones\\ProyectoFinalAutomatas\\Form1.cs*",
+              "RelativeToolTip": "ProyectoFinalAutomatas\\Form1.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwvyIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:10:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jered\\Desktop\\Proyectos Universidad\\Generador tabla de transiciones\\ProyectoFinalAutomatas\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalAutomatas\\Form1.cs",
+              "ToolTip": "C:\\Gabriel\\Personal\\Gabriel 2024\\6to Semestre\\Aut\u00F3matas y Lenguajes Formales\\ProyectoFinal\\ProyectoFinalAutomatas\\ProyectoFinalAutomatas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Gabriel\\Personal\\Gabriel 2024\\6to Semestre\\Aut\u00F3matas y Lenguajes Formales\\ProyectoFinal\\ProyectoFinalAutomatas\\ProyectoFinalAutomatas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:10:27.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

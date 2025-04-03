@@ -1,0 +1,5 @@
+Escribir un programa que utilice una lista enlazada para almacenar en memoria un listado de
+personas y su respectiva edad. Los datos deben ser ingresados a través de un formulario como
+el que se le presenta en la gráfica 1. Adicionalmente debe agregar dos botones; el primero
+debe mostrar en una etiqueta el nombre de la persona más joven y el segundo botón debe
+mostrar el de la persona más vieja.

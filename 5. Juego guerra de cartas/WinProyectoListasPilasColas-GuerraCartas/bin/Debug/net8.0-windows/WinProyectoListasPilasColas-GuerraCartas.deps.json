@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinProyectoListasPilasColas-GuerraCartas/1.0.0": {
+        "runtime": {
+          "WinProyectoListasPilasColas-GuerraCartas.dll": {}
+        }
+      },
+      "Biblioteca de Clases/1.0.0": {
+        "runtime": {
+          "Biblioteca de Clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinProyectoListasPilasColas-GuerraCartas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca de Clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

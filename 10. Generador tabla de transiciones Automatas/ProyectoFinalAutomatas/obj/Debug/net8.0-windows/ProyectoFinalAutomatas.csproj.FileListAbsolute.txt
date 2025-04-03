@@ -1,0 +1,32 @@
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.exe
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.deps.json
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.runtimeconfig.json
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.dll
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.pdb
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.Form1.resources
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.csproj.GenerateResource.cache
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.AssemblyInfoInputs.cache
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.AssemblyInfo.cs
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.csproj.CoreCompileInputs.cache
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.dll
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\refint\ProyectoFinalAutomatas.dll
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.pdb
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.genruntimeconfig.cache
+C:\Gabriel\Personal\Gabriel 2024\6to Semestre\Autómatas y Lenguajes Formales\ProyectoFinal\ProyectoFinalAutomatas\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ref\ProyectoFinalAutomatas.dll
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.exe
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.deps.json
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.runtimeconfig.json
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.dll
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\bin\Debug\net8.0-windows\ProyectoFinalAutomatas.pdb
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.Form1.resources
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.csproj.GenerateResource.cache
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.dll
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\refint\ProyectoFinalAutomatas.dll
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.pdb
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ProyectoFinalAutomatas.genruntimeconfig.cache
+C:\Users\Jered\Desktop\Proyectos Universidad\Generador tabla de transiciones\ProyectoFinalAutomatas\obj\Debug\net8.0-windows\ref\ProyectoFinalAutomatas.dll

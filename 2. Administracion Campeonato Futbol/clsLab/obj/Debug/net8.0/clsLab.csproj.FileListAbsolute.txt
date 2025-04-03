@@ -1,0 +1,33 @@
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\bin\Debug\net8.0\clsLab.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\bin\Debug\net8.0\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\bin\Debug\net8.0\clsLab.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\clsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\clsLab.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\clsLab.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\clsLab.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\refint\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\clsLab.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOO\clsLab\obj\Debug\net8.0\ref\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\bin\Debug\net8.0\clsLab.deps.json
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\bin\Debug\net8.0\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\bin\Debug\net8.0\clsLab.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.AssemblyInfoInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.AssemblyInfo.cs
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\refint\clsLab.dll
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\ref\clsLab.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\bin\Debug\net8.0\clsLab.deps.json
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\bin\Debug\net8.0\clsLab.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\bin\Debug\net8.0\clsLab.pdb
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.AssemblyInfoInputs.cache
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.AssemblyInfo.cs
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\refint\clsLab.dll
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\clsLab.pdb
+C:\Users\Jered\Downloads\WinLaboratorioRepasoPOOJeremy\clsLab\obj\Debug\net8.0\ref\clsLab.dll

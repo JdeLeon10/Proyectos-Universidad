@@ -1,0 +1,6 @@
+Elabore una programa para el manejo de colas de un banco, debe asumir que se
+asignan boletos numerados a las personas en el orden que llegan, para lo cual debe
+utilizar 3 colas distintas. La primera servirá para realizar Depósitos, la segunda para
+realizar Retiros y la tercera para realizar Consultas en atención al Cliente. Siempre
+quien llego primero será atendido antes. Su aplicación debe permitir ingresar clientes
+a las diferentes colas del banco y su correspondiente atención

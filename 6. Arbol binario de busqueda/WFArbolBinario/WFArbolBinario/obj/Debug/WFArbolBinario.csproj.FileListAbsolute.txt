@@ -1,0 +1,39 @@
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe.config
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Properties.Resources.resources
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csproj.GenerateResource.Cache
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.pdb
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.exe
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.pdb
+E:\fer\UMG\2016\Progra III Estructura de Datos Java\Clases\Sesion 5\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Form1.resources
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe.config
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.exe
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.pdb
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Form1.resources
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Properties.Resources.resources
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csproj.GenerateResource.Cache
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe
+C:\Users\Michael Asturias\Documents\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe.config
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.exe
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Form1.resources
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Properties.Resources.resources
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csproj.GenerateResource.Cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Estructura de Datos\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Form2.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe.config
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.exe
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\bin\Debug\WFArbolBinario.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csproj.AssemblyReference.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Form2.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Form1.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.Properties.Resources.resources
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csproj.GenerateResource.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.exe
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.pdb
+C:\Users\Jered\Desktop\Universidad\Programacion 3\CodeArbolBinario\WFArbolBinario\WFArbolBinario\obj\Debug\WFArbolBinario.winLabABB.resources

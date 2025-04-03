@@ -1,0 +1,36 @@
+Laboratorio Repaso Programación Orientada a Objetos
+
+Estructuras Estáticas
+
+Se le pide desarrollar una aplicación en C# que permita administrar un campeonato de futbol con 20 equipos. Se le pide lo siguiente:
+
+Una Clase Jugador la cual debe contener los siguientes atributos: Nombre, NoCamisola, Cantidad  de tarjetas amarillas, Cantidad de Tarjetas Rojas, Cantidad de Goles
+
+La clase Jugador debe tener los métodos siguientes:
+
+Un Constructos que reciba como parámetro el Nombre y NoCamisola; los demás atributos deben inicializarse con valor 0
+Un Método para Incrementar Goles
+Un Método para Incrementar Amarillas
+Un Método para Incrementar Rojas
+Desarrolle una Clase Equipo que permita almacenar los siguientes atributos
+
+Nombre del Equipo
+Jugadores (un array con 22 Jugadores)
+Debe contar con un constructor que reciba como parámetro el nombre del equipo e instancie el array de jugadores
+
+Desarrolle una clase Torneo que cuente con los siguientes atributos:
+
+Nombre del torneo
+Listado de equipos (Array de 20 Equipos)
+La clase Torneo debe tener un constructor que reciba como Parametro el Nombre del torneo e instancie el array de equipos
+
+Debe tener los siguientes Métodos
+
+Agregar Equipo (debe recibir el nombre del equipo y colocarlo en la primera posición libre del array de equipos
+Agregar Jugador( Debe recibir como parámetro la posición del equipo al que pertenece el Jugador y el nombre y NoCamisola del Jugador)
+Desarrolle un Menú para Administrar el Torneo
+
+menu( ): Debe implementar un menú para poder realizar cada una de las operaciones que fueron implementadas:
+Crear Torneo.
+Agregar un Equipo (Solicitar los datos del Equipo)
+Agregar Jugador (Solicitar los datos del Jugador)

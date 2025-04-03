@@ -1,0 +1,38 @@
+[
+	{
+		"id": 432,
+		"concepto": "Pago suscripcion netflix",
+		"numeroTarjeta": "6534",
+		"fechaEstadoCuenta": "2025-05-12",
+		"montoTotal": 323,
+		"transaccion": "Gastos",
+		"nombre": "Josue Fernando Tumax Baquiax"
+	},
+	{
+		"id": 500,
+		"concepto": "Pago suscripcion netflix",
+		"numeroTarjeta": "6534",
+		"fechaEstadoCuenta": "2025-05-12",
+		"montoTotal": 323,
+		"transaccion": "Gastos",
+		"nombre": "Josue Fernando Tumax Baquiax"
+	},
+	{
+		"id": 123,
+		"concepto": "Pago suscripcion netflix",
+		"numeroTarjeta": "6534",
+		"fechaEstadoCuenta": "2025-05-12",
+		"montoTotal": 323,
+		"transaccion": "Gastos",
+		"nombre": "Josue Fernando Tumax Baquiax"
+	},
+	{
+		"id": 40,
+		"concepto": "Pago suscripcion netflix",
+		"numeroTarjeta": "6534",
+		"fechaEstadoCuenta": "2025-05-12",
+		"montoTotal": 323,
+		"transaccion": "Gastos",
+		"nombre": "Josue Fernando Tumax Baquiax"
+	}
+]
